@@ -1,0 +1,31 @@
+{
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"Compass",
+		"Emmet",
+		"Gist",
+		"Github Tools",
+		"Highlighter",
+		"JSHint",
+		"JSHint Gutter",
+		"Package Control",
+		"SCSS",
+		"sublime-github",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"Tag",
+		"Terminal"
+	]
+}

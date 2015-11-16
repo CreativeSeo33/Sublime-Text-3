@@ -1,0 +1,20 @@
+{
+  "selector": "source.css",
+
+  "shell": true,
+
+  "cmd": ["recess ${file} --noIDs false --stripColors true"],
+
+  "file_regex": "^ *\\[css\\] (.+):([0-9]+):() (.*)$",
+  "line_regex": "(\\d+),(\\d+)",
+
+  "osx": {
+    // use `which recess` to find the path and put it here
+    "path": "/usr/local/share/npm/bin:$PATH"
+  },
+
+  "windows": {
+    //"cmd": ["recess $file --config \"${packages}\\Twitter Recess\\config.json\" > \"${file_path}\\\\${file_base_name}-recess.$file_extension\" && \"${file_path}\\\\${file_base_name}-recess.$file_extension\""]
+    "cmd": ["recess $file --noIDs false --stripColors true"]
+  }
+}

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid">
+  <div class="row">
+    
+  </div>
+</div>
+]]></content>
+	<tabTrigger>divrowf</tabTrigger>
+</snippet>
